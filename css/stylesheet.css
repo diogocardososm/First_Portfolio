@@ -7,3 +7,11 @@ body{
     margin: 50px;
     text-align: center;
 }
+#card{
+    color:whitesmoke;
+    background-color: black;
+    padding: 16px;
+    margin:10px;
+    border-radius: 6px;
+    box-shadow: 5px 4px 4px rgb(0, 0, 0, 0.2);;
+}
